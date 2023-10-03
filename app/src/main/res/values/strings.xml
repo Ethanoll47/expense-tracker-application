@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Expense Tracker</string>
+    <string name="expense_amount_hint">Enter Amount</string>
+    <string name="expense_amount_label">Amount</string>
+    <string name="expense_date_time_label">Date and Time</string>
+    <string name="expense_others_label">Others</string>
+    <string name="expense_details_label">Details</string>
+    <string name="expense_solved_label">Solved</string>
+    <string name="date_picker_title">Date of expense:</string>
+    <string name="time_picker_title">Time of Expense:</string>
+    <string name="new_expense">New Expense</string>
+    <string name="search_expense">Search Expense</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle_format">%1$d expenses</string>
+    <string name="expense_contact_text">Add Contact</string>
+    <string name="expense_report_text">Send Expense Report</string>
+    <string name="expense_report">
+        The expense was created on %1$s with an amount of %2$s %3$s
+    </string>
+    <string name="expense_report_no_contact"></string>
+    <string name="expense_report_contact">with %s.</string>
+    <string name="expense_report_subject">Expense Report</string>
+    <string name="send_report">Send expense report via</string>
+    <string name="expense_delete_text">Delete</string>
+    <string name="expense_select">Select Category</string>
+    <string-array name="expense_categories">
+        <item>Food &amp; Beverage</item>
+        <item>Transportation</item>
+        <item>Entertainment</item>
+        <item>Others</item>
+        <item>Withdrawal</item>
+        <item>Fees &amp; Charges</item>
+        <item>Insurances</item>
+        <item>Business</item>
+        <item>Investment</item>
+        <item>Education</item>
+        <item>Family</item>
+        <item>Gifts &amp; Donations</item>
+        <item>Health &amp; Fitness</item>
+        <item>Shopping</item>
+        <item>Bills &amp; Utilities</item>
+    </string-array>
+</resources>
